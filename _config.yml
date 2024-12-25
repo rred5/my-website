@@ -1,0 +1,8 @@
+title: Portfolio Blog
+description: A portfolio blog showcasing my projects and skills.
+baseurl: ""
+url: "https://rred5.github.io/my-website"
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
